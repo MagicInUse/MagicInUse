@@ -11,6 +11,7 @@ I'm a passionate full-stack web developer with a strong foundation in various pr
 
 ### 🌱 I'm currently learning
 - Advanced React techniques and patterns
+- Websockets!
 - C++ for hardware programming
 - Linux workflow optimization
 
