@@ -39,7 +39,7 @@ I'm a passionate full-stack web developer with a strong foundation in various pr
 
 ### 🎸 When I'm not coding
 - Questing in [WoW](https://worldofwarcraft.blizzard.com/) or breaking blocks in [Minecraft](https://www.minecraft.net/)
-- Playing guitar through [Rocksmith](https://www.ubisoft.com/en-us/game/rocksmith/2014-remastered)
+- Playing guitar through [Rocksmith](https://store.steampowered.com/app/221680/Rocksmith_2014_Edition_REMASTERED_LEARN__PLAY/)
 - Exploring new technologies and hardware projects
 
 ---
