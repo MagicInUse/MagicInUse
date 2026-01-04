@@ -38,6 +38,7 @@ I'm a passionate full-stack web developer with a strong foundation in various pr
 - I've been tinkering with custom game maps since the early days of Starcraft and Warcraft III
 
 ### 🎸 When I'm not coding
+- Questing in [WoW](https://worldofwarcraft.blizzard.com/) or breaking blocks in [Minecraft](https://www.minecraft.net/)
 - Playing guitar through [Rocksmith](https://www.ubisoft.com/en-us/game/rocksmith/2014-remastered)
 - Exploring new technologies and hardware projects
 
