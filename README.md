@@ -18,7 +18,7 @@ I'm a passionate full-stack web developer with a strong foundation in various pr
 
 ### 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript, C#, C++, HTML, CSS
-- **Frameworks/Libraries:** React, Express, Node.js, Tailwind CSS, Expo
+- **Frameworks/Libraries:** Next.js, React, Express, Node.js, Tailwind CSS, Expo
 - **Tools:** Git, Vite, ESLint, cPanel, pgAdmin, MongoDB Compass
 - **Other Skills:** 3D Printing, CNC Machining, Computer Building, Networking
 
